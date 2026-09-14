@@ -88,11 +88,11 @@ Key columns include:
 
 ### Dashboard 1 — PaySim Overview
 
-The overview dashboard provides a high-level view of transaction volume, transaction amounts, transaction types, fraud distribution, and balance information.
+The overview dashboard provides a high-level view of transaction volume, transaction amounts, transaction types, fraud distribution, and balance information.![PaySim Overview Dashboard](Screenshot%202026-09-14%20071250.png)
 
 ### Dashboard 2 — PaySim Risk Analysis
 
-The risk dashboard focuses on fraud detection, fraud by transaction type, fraud trends, transaction amounts, and actual versus system-flagged fraud.
+The risk dashboard focuses on fraud detection, fraud by transaction type, fraud trends, transaction amounts, and actual versus system-flagged fraud.![PaySim Risk Analysis Dashboard](Screenshot%202026-09-14%20075716.png)
 
 ## 💡 Business Recommendations
 
